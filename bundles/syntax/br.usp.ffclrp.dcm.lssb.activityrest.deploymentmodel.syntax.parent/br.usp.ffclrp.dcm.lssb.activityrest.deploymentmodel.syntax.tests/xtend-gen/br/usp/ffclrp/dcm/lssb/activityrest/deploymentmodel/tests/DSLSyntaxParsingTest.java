@@ -9,7 +9,6 @@ import br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.DeploymentModelFactor
 import br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.DeploymentModelPackage;
 import br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.Service;
 import br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.ServiceContainer;
-import br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.tests.DSLSyntaxInjectorProvider;
 import com.google.inject.Inject;
 import java.net.URL;
 import org.eclipse.emf.common.util.EList;

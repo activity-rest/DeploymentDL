@@ -3,8 +3,6 @@
  */
 package br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.ui.contentassist;
 
-import br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.ui.contentassist.AbstractDSLSyntaxProposalProvider;
-
 /**
  * See https://www.eclipse.org/Xtext/documentation/304_ide_concepts.html#content-assist
  * on how to customize the content assistant.

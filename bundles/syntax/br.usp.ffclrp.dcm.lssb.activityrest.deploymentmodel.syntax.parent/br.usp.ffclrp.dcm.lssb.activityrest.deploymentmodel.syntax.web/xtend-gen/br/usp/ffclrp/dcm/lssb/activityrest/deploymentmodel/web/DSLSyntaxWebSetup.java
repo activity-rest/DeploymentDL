@@ -6,7 +6,6 @@ package br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.web;
 import br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.DSLSyntaxRuntimeModule;
 import br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.DSLSyntaxStandaloneSetup;
 import br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.ide.DSLSyntaxIdeModule;
-import br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.web.DSLSyntaxWebModule;
 import com.google.inject.Guice;
 import com.google.inject.Injector;
 import org.eclipse.xtext.util.Modules2;

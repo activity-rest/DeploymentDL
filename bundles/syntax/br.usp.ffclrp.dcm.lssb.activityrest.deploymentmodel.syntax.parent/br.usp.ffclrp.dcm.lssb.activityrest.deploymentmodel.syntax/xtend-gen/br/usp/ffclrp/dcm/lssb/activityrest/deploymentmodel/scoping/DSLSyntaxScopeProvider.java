@@ -3,8 +3,6 @@
  */
 package br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.scoping;
 
-import br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.scoping.AbstractDSLSyntaxScopeProvider;
-
 /**
  * This class contains custom scoping description.
  * 

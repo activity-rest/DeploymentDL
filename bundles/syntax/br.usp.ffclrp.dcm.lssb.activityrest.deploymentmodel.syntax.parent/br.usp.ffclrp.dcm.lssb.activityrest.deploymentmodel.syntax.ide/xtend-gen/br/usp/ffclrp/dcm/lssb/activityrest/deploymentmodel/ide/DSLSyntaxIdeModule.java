@@ -3,8 +3,6 @@
  */
 package br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.ide;
 
-import br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.ide.AbstractDSLSyntaxIdeModule;
-
 /**
  * Use this class to register ide components.
  */

@@ -1,0 +1,13 @@
+*.class
+*.jar
+*.xtendbin
+.classpath
+.idea/
+.mvn/
+.project
+.project
+.settings
+.settings/
+bin/
+target/
+src-gen

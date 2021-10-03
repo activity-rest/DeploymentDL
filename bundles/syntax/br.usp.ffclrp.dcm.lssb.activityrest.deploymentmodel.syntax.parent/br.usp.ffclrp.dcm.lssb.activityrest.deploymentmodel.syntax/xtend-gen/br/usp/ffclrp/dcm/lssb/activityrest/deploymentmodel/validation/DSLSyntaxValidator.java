@@ -3,8 +3,6 @@
  */
 package br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.validation;
 
-import br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.validation.AbstractDSLSyntaxValidator;
-
 /**
  * This class contains custom validation rules.
  * 

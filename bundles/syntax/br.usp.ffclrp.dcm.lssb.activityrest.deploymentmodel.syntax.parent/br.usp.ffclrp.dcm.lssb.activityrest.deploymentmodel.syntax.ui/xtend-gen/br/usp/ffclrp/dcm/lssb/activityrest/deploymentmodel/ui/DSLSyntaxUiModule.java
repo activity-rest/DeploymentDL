@@ -3,7 +3,6 @@
  */
 package br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.ui;
 
-import br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.ui.AbstractDSLSyntaxUiModule;
 import org.eclipse.ui.plugin.AbstractUIPlugin;
 import org.eclipse.xtend.lib.annotations.FinalFieldsConstructor;
 
@@ -13,7 +12,7 @@ import org.eclipse.xtend.lib.annotations.FinalFieldsConstructor;
 @FinalFieldsConstructor
 @SuppressWarnings("all")
 public class DSLSyntaxUiModule extends AbstractDSLSyntaxUiModule {
-  public DSLSyntaxUiModule(final AbstractUIPlugin arg0) {
-    super(arg0);
+  public DSLSyntaxUiModule(final AbstractUIPlugin plugin) {
+    super(plugin);
   }
 }

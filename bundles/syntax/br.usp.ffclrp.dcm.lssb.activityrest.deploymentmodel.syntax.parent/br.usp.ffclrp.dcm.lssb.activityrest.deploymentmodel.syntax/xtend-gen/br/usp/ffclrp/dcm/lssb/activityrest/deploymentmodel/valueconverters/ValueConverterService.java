@@ -1,7 +1,5 @@
 package br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.valueconverters;
 
-import br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.valueconverters.EStringValueConverter;
-import br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.valueconverters.UrlValueConverter;
 import java.net.URL;
 import org.eclipse.xtext.common.services.DefaultTerminalConverters;
 import org.eclipse.xtext.conversion.IValueConverter;

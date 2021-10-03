@@ -3,7 +3,6 @@
  */
 package br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel;
 
-import br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.AbstractDSLSyntaxRuntimeModule;
 import br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.valueconverters.ValueConverterService;
 import org.eclipse.xtext.conversion.IValueConverterService;
 

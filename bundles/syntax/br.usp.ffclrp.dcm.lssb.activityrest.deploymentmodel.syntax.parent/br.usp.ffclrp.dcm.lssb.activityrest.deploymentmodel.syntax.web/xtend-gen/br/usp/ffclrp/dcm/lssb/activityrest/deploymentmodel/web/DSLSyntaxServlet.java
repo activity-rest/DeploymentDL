@@ -3,7 +3,6 @@
  */
 package br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.web;
 
-import br.usp.ffclrp.dcm.lssb.activityrest.deploymentmodel.web.DSLSyntaxWebSetup;
 import com.google.inject.Injector;
 import javax.servlet.annotation.WebServlet;
 import org.eclipse.xtext.util.DisposableRegistry;
